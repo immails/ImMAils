@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ImMAils
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning js, php, and java (!)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Discord: I'mMAils#1238
 
 <!---
 ImMAils/ImMAils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
