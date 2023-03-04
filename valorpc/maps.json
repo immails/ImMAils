@@ -1,6 +1,12 @@
 {
   "/Game/Maps/Foxtrot/Foxtrot": "Breeze",
   "/Game/Maps/Duality/Duality": "Bind",
-
-  "/Game/Maps/Triada/Triada": "Haven"
+  "/Game/Maps/Bonsai/Bonsai": "Split",
+  "/Game/Maps/Triada/Triada": "Haven",
+  "/Game/Maps/Ascent/Ascent": "Ascent",
+  "/Game/Maps/Canyon/Canyon": "Fracture",
+  "/Game/Maps/Port/Port": "Icebox",
+  "/Game/Maps/Pitt/Pitt": "Pearl",
+  "/Game/Maps/Jam/Jam": "Lotus",
+  "/Game/Maps/Poveglia/Poveglia": "The Range"
 }
