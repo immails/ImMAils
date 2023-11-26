@@ -1,4 +1,4 @@
-Discord: I'mMAils#1238
+AHHHHHH
 
 <!---
 ImMAils/ImMAils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
